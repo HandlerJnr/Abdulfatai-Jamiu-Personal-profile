@@ -1004,6 +1004,11 @@ section .container {
   background: rgba(255, 255, 255, 0.08);
 }
 
+.contact .container {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
 .contact .info-box i.bx {
   font-size: 24px;
   color: #18d26e;
